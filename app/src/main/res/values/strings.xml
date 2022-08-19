@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MvvmSolvedAPI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="introduce_search_comment">type baekjoon Id</string>
+    <string name="search">검색</string>
+
+    <string name="no_user_id">ID에 해당하는\n유저가 없습니다.</string>
+    <string name="solved_count">푼 문제 수 : </string>
+    <string name="tier">티어 : </string>
+</resources>
